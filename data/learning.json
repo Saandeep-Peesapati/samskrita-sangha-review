@@ -1,0 +1,35 @@
+{
+  "checked": "2026-09-25",
+  "resources": [
+    {
+      "id": "perry-primer",
+      "title": "A Sanskrit Primer",
+      "author": "Edward Delavan Perry, based on Georg Bühler",
+      "level": "Start here · Lessons & exercises",
+      "description": "A complete course with an introduction to the script, grammar lessons, vocabulary, and translation exercises. Begin with Alphabet and Sounds, then work through the first lessons at your own pace.",
+      "source": "La Trobe University · OPAL",
+      "sourceUrl": "https://opal.latrobe.edu.au/articles/book/A_Sanskrit_primer_by_Edward_Delavan_Perry/22299778",
+      "readUrl": "https://opal.latrobe.edu.au/ndownloader/files/39665179",
+      "action": "Open the primer PDF",
+      "format": "PDF · 9.65 MB",
+      "license": "Public domain · CC0 repository record",
+      "rightsNote": "La Trobe’s record identifies this edition as public domain with unrestricted access and use, and lists CC0.",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "whitney-grammar",
+      "title": "Sanskrit Grammar",
+      "author": "William Dwight Whitney",
+      "level": "Go deeper · Grammar reference",
+      "description": "A detailed reference to consult as questions arise. Start with Chapters I–II for the alphabet and pronunciation; return later for noun endings, verbs, and compounds.",
+      "source": "Wikisource",
+      "sourceUrl": "https://en.wikisource.org/wiki/Sanskrit_Grammar_(Whitney)",
+      "readUrl": "https://en.wikisource.org/wiki/Sanskrit_Grammar_(Whitney)",
+      "action": "Read the grammar online",
+      "format": "Online book",
+      "license": "Public-domain original text",
+      "rightsNote": "Wikisource marks Whitney’s original work as public domain. Its website interface and additional contributions have separate terms.",
+      "licenseUrl": "https://en.wikisource.org/wiki/Sanskrit_Grammar_(Whitney)"
+    }
+  ]
+}

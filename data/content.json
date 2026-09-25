@@ -1,1 +1,27 @@
-
+{
+  "talks": [
+    {"id":"essentials-of-ramayana","title":"The essentials of Ramayana","speaker":"Shri Arjun Bharadwaj","date":"2025-08-19","tentative":true,"category":"Literature","url":"https://youtu.be/7UqmKLzYiPc?si=QE1mCLjQbvDYRQm2","type":"video"},
+    {"id":"classical-samskruta-poetry","title":"The Joy of Reading Classical Samskruta Poetry","speaker":"Shri Shashi Kiran BN","date":"2025-03-11","tentative":true,"category":"Literature","url":"https://youtu.be/PZI6Raf_i-c?si=01FJ7WAdwQkR4XUf","type":"video"},
+    {"id":"sangha-reinauguration","title":"Reinauguration of Samskruta Sangha","speaker":"Sri Sri Shankara Bharathi Swamiji","date":"2024-10-24","category":"Community","url":"https://youtu.be/_n1ZQFPvY7A?si=JRSlyr-_LRK7Mo-5","type":"video"}
+  ],
+  "activities": [
+    {"id":"tarka-sangraha-1","title":"Tarka Sangraha — Lecture 1","date":"2026-06-11","category":"Reading circles","description":"Mangala shloka","type":"video","resourceName":"Notes / Video","url":null},
+    {"id":"tarka-sangraha-2","title":"Tarka Sangraha — Lecture 2","date":"2026-06-18","category":"Reading circles","description":"Dravya Lakshana","type":"audio","resourceName":"Audio File","url":null},
+    {"id":"spoken-sanskrit-camp-2026","title":"Spoken Sanskrit Camp 2026","year":"2026","category":"Spoken Sanskrit camps","speaker":"Teacher to be confirmed","location":"IDR building","students":42},
+    {"id":"spoken-sanskrit-camp-2025","title":"Spoken Sanskrit Camp 2025","year":"2025","category":"Spoken Sanskrit camps","speaker":"Sudarshan","location":"IDR building","students":30}
+  ],
+  "articles": [
+    {"id":"katapayadi-bhutasankhya","title":"An Exploration into Katapayadi and Bhutasankhya Notations","date":"2026-01-01","speaker":"Author to be announced","category":"Mathematics","type":"external","url":null},
+    {"id":"poetics-of-kadambari","title":"The Poetics of Kadambari: Bana Bhatta’s Prose Mastery","date":"2026-01-02","speaker":"Author to be announced","category":"Literature","type":"external","url":null}
+  ],
+  "members": [
+    {"name":"Sangeerth","role":"Head","department":"PhD, RBCCPS","email":"samskrutasangha.iisc@gmail.com"},
+    {"name":"Aditya","role":"President","department":"PhD, Mechanical Engineering","email":"samskrutasangha.iisc@gmail.com"},
+    {"name":"Trivikrama Dorbala","role":"","department":"PhD, DESE"}
+  ],
+  "gallery": [
+    {"id":"winter-shibiram-2026","title":"Winter Spoken Sanskrit Shibiram 2026","src":"images/gallery/shibira-2026.jpg","alt":"Winter Spoken Sanskrit Shibiram 2026"},
+    {"id":"invited-talk-gallery","title":"Invited talk — caption pending","src":"a.jpg","alt":"Invited talk"},
+    {"id":"open-day-exhibits","title":"Linguistic Exhibits at IISc Open Day","src":"b.jpg","alt":"Linguistic exhibits at IISc Open Day"}
+  ]
+}
